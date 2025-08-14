@@ -1,6 +1,6 @@
-# 🎓 EduQuizMaster — Real-Time Java Quiz App
+# 🎓 EduQuizMaster(TechTriviaQuiz) — Real-Time Java Quiz App
 
-**EduQuizMaster** is a Java desktop application built with JavaFX and Swing, designed to help users prepare for trending topics through real-time quizzes. With category-based question selection, timed challenges, and detailed result tracking, it’s a complete learning and testing companion.
+**EduQuizMaster(TechTriviaQuiz)** is a Java desktop application built with JavaFX and Swing, designed to help users prepare for trending topics through real-time quizzes. With category-based question selection, timed challenges, and detailed result tracking, it’s a complete learning and testing companion.
 
 ---
 
